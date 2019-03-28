@@ -9,7 +9,7 @@
     - If you get stuck on any of the ???, try solving the easy ones first.
 
     - If you're still stuck, this Flexbox cheat sheet might help:
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
+      https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+      
 4. Once you're done, try out other things that media queries can do:
 https://www.w3schools.com/css/css_rwd_mediaqueries.asp
